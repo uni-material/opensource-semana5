@@ -1,4 +1,11 @@
 {
   "students": [],
-  "profiles": []
+  "profiles": [],
+  "courses": [
+    {
+      "id": 1,
+      "tittle": "Angular Fundamentals",
+      "description": "   "
+    }
+  ]
 }
