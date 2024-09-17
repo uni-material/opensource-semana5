@@ -21,7 +21,6 @@ export class LanguageSwitcherComponent {
 
   }
 
-  useLanguage(Language)
 
 
 }
